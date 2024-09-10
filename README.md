@@ -24,4 +24,4 @@ SQL: For querying and data extraction from the international debt database.
 Python: For data analysis and visualization.
 Jupyter Notebook: For interactive development and presentation.
 
-# This project offers insights into the international debt landscape, highlighting the extent and areas of debt for developing countries, which could be valuable for economists, policymakers, and researchers.
+**This project offers insights into the international debt landscape, highlighting the extent and areas of debt for developing countries, which could be valuable for economists, policymakers, and researchers.**
